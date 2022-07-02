@@ -1,1 +1,1 @@
-GIT_USER=micnic CURRENT_BRANCH=master USE_SSH=true npm run publish-gh-pages
+GIT_USER=youcef-2001 CURRENT_BRANCH=master USE_SSH=true npm run publish-gh-pages
